@@ -1,0 +1,5 @@
+Modelo\GestionarProductos.class
+Modelo\Producto.class
+com\mycompany\gestionproductos\JakartaRestConfiguration.class
+Servlets\ServletProductos.class
+com\mycompany\gestionproductos\resources\JakartaEE11Resource.class

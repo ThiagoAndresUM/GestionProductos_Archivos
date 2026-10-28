@@ -1,0 +1,2 @@
+1,Camiseta SM,20,38500.0,images/asda.png
+103,CamisetaDep,15,50000.0,images/casmiseta.jpg
